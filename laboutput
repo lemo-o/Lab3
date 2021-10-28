@@ -1,0 +1,23 @@
+Script started on 2021-09-13 23:08:13-07:00 [TERM="xterm" TTY="/dev/pty1" COLUMNS="80" LINES="24"]
+]0;/cygdrive/c/Users/bhall/Documents/Programming/2. Labs/Lab3
+[32mbhall@DESKTOP-GORVVML [33m/cygdrive/c/Users/bhall/Documents/Programming/2. Labs/Lab3[0m
+$ main[K[K[K[K./,a[K[Kmain.exe
+[6n[6n[m[?25hFirst number:
+5
+Second number:
+5
+1 for Addition, 2 for Subtraction, 3 for Multiplication, 4 for Division:
+5
+1 for Addition, 2 for Subtraction, 3 for Multiplication, 4 for Division:
+10
+1 for Addition, 2 for Subtraction, 3 for Multiplication, 4 for Division:
+0
+1 for Addition, 2 for Subtraction, 3 for Multiplication, 4 for Division:
+4
+1
+]0;/cygdrive/c/Users/bhall/Documents/Programming/2. Labs/Lab3
+[32mbhall@DESKTOP-GORVVML [33m/cygdrive/c/Users/bhall/Documents/Programming/2. Labs/Lab3[0m
+$ exit
+exit
+
+Script done on 2021-09-13 23:08:46-07:00 [COMMAND_EXIT_CODE="0"]
